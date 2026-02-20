@@ -1,0 +1,8 @@
+
+{
+  "name": "D’Onana Cozinha Afetiva",
+  "description": "Sistema de gestão inteligente para marmitaria com controle de estoque, agendamento automático de capacidade e integração com IA para processamento de notas fiscais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
